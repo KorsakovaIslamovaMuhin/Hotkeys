@@ -1,5 +1,5 @@
 body.main {
-  font-family: "Poiret One", cursive;
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-image: url(../img/main.gif);
   background-repeat: no-repeat;
   background-size: 100%;
@@ -10,7 +10,7 @@ body.training {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: "Poiret One", cursive;
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: lightgray;
 }
 body.menu {
@@ -18,7 +18,7 @@ body.menu {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: "Poiret One", cursive;
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: lightgray;
 }
 .center {
